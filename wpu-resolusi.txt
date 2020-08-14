@@ -4,4 +4,5 @@ WPU RESOLUSI
 3. C
 4. D
 5. E
-6. nambah 1
+
+G jadi
